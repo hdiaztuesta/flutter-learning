@@ -58,3 +58,5 @@ linux/flutter/generated_plugins.cmake
 
 # Generated plugin registrants
 lib/generated_plugin_registrant.dart
+
+resources/
